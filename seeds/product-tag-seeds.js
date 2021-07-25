@@ -19,10 +19,6 @@ const productTagData = [
   },
   {
     product_id: 3,
-    tag_id: 1,
-  },
-  {
-    product_id: 3,
     tag_id: 3,
   },
   {

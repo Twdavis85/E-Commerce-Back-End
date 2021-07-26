@@ -20,6 +20,8 @@ router.get("/", (req, res) => {
 });
 
 // get one product
+// find a single product by its `id`
+// be sure to include its associated Category and Tag data
 router.get("/:id", (req, res) => {
   Product.findOne({
     where: {
@@ -33,8 +35,6 @@ router.get("/:id", (req, res) => {
     .catch((err) => {
       res.json(err);
     });
-  // find a single product by its `id`
-  // be sure to include its associated Category and Tag data
 });
 
 // create new product

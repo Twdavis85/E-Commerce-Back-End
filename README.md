@@ -27,7 +27,7 @@ For this application the user will need mySQL a terminal, and insomnia.
 
 ## Review Links
 [Repository](https://github.com/Twdavis85/E-Commerce-Back-End) &nbsp; | &nbsp; 
-[Demo](https://drive.google.com/file/d/14-gfBzc0jLuSdzVqswrYKGz_UYblwFUO/view?usp=sharing)
+[Demo](https://drive.google.com/file/d/1SzQrhLfx4YrP8PWDt9fnzqDsw1ZSealR/view?usp=sharing)
 
 
 ## Questions
@@ -35,7 +35,7 @@ To check out my work and follow me on GitHub visit: [Twdavis85](https://github.c
 If you have any questions about this or any other project feel free to email me at: [tdnc85@yahoo.com](mailto:tdnc85@yahoo.com)
 
 ## Demo gif
-![Employee Tracker gif](./assets/demo.gif)
+![E Commerce Back End gif](./assets/demo.gif)
 
 ## License
 Copyright 2021 &ensp; Tyler Davis

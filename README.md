@@ -19,7 +19,7 @@ For this application the user will need mySQL a terminal, and insomnia.
 
 ## Usage
 * First thing you need to do is run "npm i" in the terminal to install the packages needed to run this application
-* After that you need to create the database in mySQL by running "mysql -u root -p" then enter your mySQL password when prompted. After that run "CREATE DATABASE ecommerce_db;" you should see this message after you create the database "Query OK, 1 row affected (0.01 sec)" when that is done type QUIT to exit mySQL in the terminal. 
+* After that you need to create the database in mySQL by running "mysql -u (USERNAME) -p" then enter your mySQL password when prompted. After that run "CREATE DATABASE ecommerce_db;" you should see this message after you create the database "Query OK, 1 row affected (0.01 sec)" when that is done type QUIT to exit mySQL in the terminal. 
 * When the database is created you need create a .env file to store your mySQL username, database name, and password(use the .env.EXAMPLE file for a reference)
 * Next you need to seed the database by running "npm run seed" in that terminal  
 * Then you can run "npm start" in the terminal to run the server.
